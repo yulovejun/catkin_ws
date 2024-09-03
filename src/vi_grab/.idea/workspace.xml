@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a455148-1c2e-44dd-add6-b1c408100c8a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/ISSUE_TEMPLATE/bug-report.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/ISSUE_TEMPLATE/feature-request.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/ISSUE_TEMPLATE/question.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/dependabot.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/workflows/ci-testing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/workflows/codeql-analysis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/workflows/docker.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/workflows/greetings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/workflows/links.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/workflows/stale.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.github/workflows/translate-readme.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/.pre-commit-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/.pre-commit-config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/CITATION.cff" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/CITATION.cff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/README.zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/README.zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/benchmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/benchmarks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/classify/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/classify/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/classify/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/classify/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/classify/tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/classify/tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/classify/val.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/classify/val.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/Argoverse.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/Argoverse.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/GlobalWheat2020.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/GlobalWheat2020.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/ImageNet.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/ImageNet.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/Objects365.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/Objects365.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/SKU-110K.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/SKU-110K.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/VOC.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/VOC.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/VisDrone.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/VisDrone.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/coco.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/coco.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/coco128-seg.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/coco128-seg.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/coco128.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/coco128.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.Objects365.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.Objects365.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.VOC.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.VOC.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.no-augmentation.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.no-augmentation.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.scratch-high.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.scratch-high.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.scratch-low.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.scratch-low.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.scratch-med.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/hyps/hyp.scratch-med.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/images/bus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/images/bus.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/images/zidane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/images/zidane.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/data/xView.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/data/xView.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/export.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/export.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/hubconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/hubconf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/experimental.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/experimental.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/anchors.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/anchors.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov3-spp.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov3-spp.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov3-tiny.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov3-tiny.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov3.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov3.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-bifpn.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-bifpn.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-fpn.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-fpn.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-p2.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-p2.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-p34.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-p34.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-p6.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-p6.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-p7.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-p7.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-panet.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5-panet.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5l6.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5l6.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5m6.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5m6.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5n6.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5n6.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5s-LeakyReLU.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5s-LeakyReLU.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5s-ghost.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5s-ghost.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5s-transformer.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5s-transformer.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5s6.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5s6.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5x6.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/hub/yolov5x6.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5l-seg.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5l-seg.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5m-seg.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5m-seg.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5n-seg.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5n-seg.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5s-seg.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5s-seg.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5x-seg.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/segment/yolov5x-seg.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/tf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/yolov5l.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/yolov5l.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/yolov5m.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/yolov5m.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/yolov5n.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/yolov5n.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/yolov5s.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/yolov5s.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/models/yolov5x.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/models/yolov5x.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/segment/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/segment/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/segment/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/segment/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/segment/tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/segment/tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/segment/val.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/segment/val.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/activations.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/activations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/augmentations.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/augmentations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/autoanchor.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/autoanchor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/autobatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/autobatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/aws/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/aws/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/aws/mime.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/aws/mime.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/aws/resume.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/aws/resume.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/aws/userdata.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/aws/userdata.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/callbacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/callbacks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/dataloaders.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/dataloaders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/docker/Dockerfile-arm64" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/docker/Dockerfile-arm64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/docker/Dockerfile-cpu" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/docker/Dockerfile-cpu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/downloads.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/downloads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/flask_rest_api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/flask_rest_api/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/flask_rest_api/example_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/flask_rest_api/example_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/flask_rest_api/restapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/flask_rest_api/restapi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/general.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/general.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/google_app_engine/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/google_app_engine/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/google_app_engine/additional_requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/google_app_engine/additional_requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/google_app_engine/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/google_app_engine/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/clearml/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/clearml/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/clearml/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/clearml/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/clearml/clearml_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/clearml/clearml_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/clearml/hpo.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/clearml/hpo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/comet_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/comet_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/hpo.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/hpo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/optimizer_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/comet/optimizer_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/wandb/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/wandb/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/wandb/wandb_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loggers/wandb/wandb_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/plots.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/plots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/segment/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/segment/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/segment/augmentations.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/segment/augmentations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/segment/dataloaders.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/segment/dataloaders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/segment/general.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/segment/general.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/segment/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/segment/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/segment/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/segment/metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/segment/plots.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/segment/plots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/torch_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/torch_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/utils/triton.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/utils/triton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/yolov5/val.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yolov5/val.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/scripts/yolov5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hSfTIuo9zuojxMWZpSgO03yfDi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.yolo_test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="yolo_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vi_grab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/yolo_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.yolo_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a455148-1c2e-44dd-add6-b1c408100c8a" name="Changes" comment="" />
+      <created>1717592407059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717592407059</updated>
+    </task>
+    <servers />
+  </component>
+</project>

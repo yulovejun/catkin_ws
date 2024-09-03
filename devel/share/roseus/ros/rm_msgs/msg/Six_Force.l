@@ -1,0 +1,1 @@
+/home/rm/catkin_ws/devel/.private/rm_msgs/share/roseus/ros/rm_msgs/msg/Six_Force.l

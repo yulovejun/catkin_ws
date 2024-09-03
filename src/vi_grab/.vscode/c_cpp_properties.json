@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/a/catkin_ws/devel/include/**",
+        "/home/a/catkin_turtlebot3/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/a/catkin_ws/src/aruco_ros-noetic-devel/aruco/include/**",
+        "/home/a/catkin_ws/src/aruco_ros-noetic-devel/aruco_ros/include/**",
+        "/home/a/catkin_ws/src/ddynamic_reconfigure/include/**",
+        "/home/a/catkin_ws/src/find_excute/include/**",
+        "/home/a/catkin_ws/src/mediapipe_pose/include/**",
+        "/home/a/catkin_ws/src/realsense-ros-2.3.1/realsense2_camera/include/**",
+        "/home/a/catkin_ws/src/realsense_ros_gazebo/include/**",
+        "/home/a/catkin_ws/src/rm_65_robot/rm_msgs/include/**",
+        "/home/a/catkin_ws/src/vi_grab/include/**",
+        "/home/a/catkin_ws/src/xfei_asr/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

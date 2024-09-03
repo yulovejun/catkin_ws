@@ -1,0 +1,1 @@
+/home/rm/catkin_ws/devel/.private/vi_grab/lib/python3/dist-packages/vi_grab/msg/__init__.py

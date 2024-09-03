@@ -1,0 +1,1 @@
+/home/rm/catkin_ws/devel/.private/vi_grab/lib/pkgconfig/vi_grab.pc

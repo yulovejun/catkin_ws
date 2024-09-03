@@ -1,0 +1,4 @@
+Symlinking /home/rm/catkin_ws/devel/lib/pkgconfig/rm_driver.pc
+Symlinking /home/rm/catkin_ws/devel/lib/rm_driver/rm_driver
+Symlinking /home/rm/catkin_ws/devel/share/rm_driver/cmake/rm_driverConfig-version.cmake
+Symlinking /home/rm/catkin_ws/devel/share/rm_driver/cmake/rm_driverConfig.cmake

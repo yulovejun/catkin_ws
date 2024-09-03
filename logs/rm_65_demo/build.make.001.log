@@ -1,0 +1,12 @@
+[  8%] Built target getArmState_publisher
+[ 16%] Built target api_teach_demo
+[ 25%] Built target api_ChangeWorkFrame_demo
+[ 33%] Built target api_Get_Arm_State_demo
+[ 41%] Built target api_ChangeToolName_demo
+[ 50%] Built target api_moveJ_P_demo
+[ 58%] Built target api_moveJ_demo
+[ 66%] Built target test_api_movel
+[ 75%] Built target pick_place_demo
+[ 83%] Built target planning_scene_ros_api_demo
+[ 91%] Built target api_moveL_demo
+[100%] Built target pour_water_demo

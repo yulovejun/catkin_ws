@@ -1,0 +1,19 @@
+####################################
+# YoloV5模型权重路径
+weight:  "src/vi_grab/scripts/weights/best.pt"
+# 输入图像的尺寸
+input_size: 640
+# 类别个数
+# number of classes
+class_num: 2
+
+# class names
+class_name: ['Umbrella_Fold_Brown','CocaCola_Canned_Slender']
+# 阈值设置
+threshold:
+  iou: 0.45
+  confidence: 0.6
+# 计算设备
+# - cpu
+# - 0 <- 使用GPU
+device: 'cpu'

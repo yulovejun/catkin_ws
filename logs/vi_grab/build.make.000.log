@@ -1,0 +1,31 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _vi_grab_generate_messages_check_deps_ObjectInfo[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _vi_grab_generate_messages_check_deps_ObjectInfo
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target vi_grab_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target vi_grab_generate_messages_py[0m
+[ 14%] [34m[1mGenerating Lisp code from vi_grab/ObjectInfo.msg[0m
+[ 28%] [34m[1mGenerating Python from MSG vi_grab/ObjectInfo[0m
+[ 28%] Built target vi_grab_generate_messages_lisp
+[35m[1mScanning dependencies of target vi_grab_generate_messages_cpp[0m
+[ 42%] [34m[1mGenerating C++ code from vi_grab/ObjectInfo.msg[0m
+[35m[1mScanning dependencies of target vi_grab_generate_messages_nodejs[0m
+[ 57%] [34m[1mGenerating Javascript code from vi_grab/ObjectInfo.msg[0m
+[ 57%] Built target vi_grab_generate_messages_cpp
+[ 71%] [34m[1mGenerating Python msg __init__.py for vi_grab[0m
+[35m[1mScanning dependencies of target vi_grab_generate_messages_eus[0m
+[ 71%] Built target vi_grab_generate_messages_nodejs
+[ 85%] [34m[1mGenerating EusLisp code from vi_grab/ObjectInfo.msg[0m
+[100%] [34m[1mGenerating EusLisp manifest code for vi_grab[0m
+[100%] Built target vi_grab_generate_messages_py
+[100%] Built target vi_grab_generate_messages_eus
+[35m[1mScanning dependencies of target vi_grab_generate_messages[0m
+[100%] Built target vi_grab_generate_messages

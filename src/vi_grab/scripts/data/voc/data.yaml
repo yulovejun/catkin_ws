@@ -1,0 +1,5 @@
+train: ../voc/train/images
+val: ../voc/val/images
+
+nc: 2
+names: ['Umbrella_Fold_Brown','CocaCola_Canned_Slender']

@@ -1,0 +1,7 @@
+<launch>
+   <node pkg="vi_grab" name="object_detect" type="vi_catch.py" cwd="node" output='screen'/>
+   <node pkg="vi_grab" name="object_catch" type="vision_grab_choice_test.py" cwd="node" output='screen'/>
+   <node pkg="vi_grab" name="msg_pub" type="pub_GetCurrentArmState.py" cwd="node" />
+   <node pkg="rm_driver" name="robot_driver" type="rm_driver" cwd="node" output='screen'/>
+   <node pkg="vi_grab" name="object_selection" type="pub_choice_object.py" cwd="node" output="screen" />
+</launch>

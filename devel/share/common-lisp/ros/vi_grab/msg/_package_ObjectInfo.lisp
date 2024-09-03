@@ -1,0 +1,1 @@
+/home/rm/catkin_ws/devel/.private/vi_grab/share/common-lisp/ros/vi_grab/msg/_package_ObjectInfo.lisp

@@ -1,0 +1,15 @@
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/api_moveJ_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/planning_scene_ros_api_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/api_teach_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/pour_water_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/api_moveJ_P_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/test_api_movel
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/pick_place_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/api_ChangeWorkFrame_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/api_moveL_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/api_ChangeToolName_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/api_Get_Arm_State_demo
+Symlinking /home/rm/catkin_ws/devel/lib/rm_65_demo/getArmState_publisher
+Symlinking /home/rm/catkin_ws/devel/lib/pkgconfig/rm_65_demo.pc
+Symlinking /home/rm/catkin_ws/devel/share/rm_65_demo/cmake/rm_65_demoConfig.cmake
+Symlinking /home/rm/catkin_ws/devel/share/rm_65_demo/cmake/rm_65_demoConfig-version.cmake
